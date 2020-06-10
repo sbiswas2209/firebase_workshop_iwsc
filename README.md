@@ -1,16 +1,19 @@
-# sample_firestore_app
+# Sample Firebase App
 
-A new Flutter project.
+This is a sample app to introduce novice Flutter developers to using Fierbase as Backend to their Application.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This project is part of the second session of the Flutter Workshop and introduces developers to using Firebase as backend to their application. This goes through Firebase Authentication and using Cloud Firestore as database for their applications. Retrieving data using Streams and querying data will be taught.
+## Some Screenshots:
+![Image of Login Page](https://github.com/sbiswas2209/firebase_workshop_iwsc/blob/master/screenshots/login.png)
+![Image of Sign Up Page](https://github.com/sbiswas2209/firebase_workshop_iwsc/blob/master/screenshots/signUp.png)
+![Image of Home Screen](https://github.com/sbiswas2209/firebase_workshop_iwsc/blob/master/screenshots/home.png)
+![Image of Profile Page](https://github.com/sbiswas2209/firebase_workshop_iwsc/blob/master/screenshots/profile.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Firebase
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase is a mobile and web application development platform developed by Firebase, Inc. in 2011, then acquired by Google in 2014. As of March 2020, the Firebase platform has 19 products, which are used by more than 1.5 million apps.
+ Create your first Firebase project at : -> [Firebase Console](https://console.firebase.google.com)
+ 
+ ***Star this repo if you liked what you saw.***
